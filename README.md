@@ -47,6 +47,7 @@ ok
 
 <div align="center">
 <img src="assets/losses.png"><br>
+<em>Loss over 10,000 iterations of the hill-climbing algorithm.</em>
 <img src="assets/prediction_target.png">
 <br>
 <em>y1-output from hill-climbing algorithm, y2-target</em>

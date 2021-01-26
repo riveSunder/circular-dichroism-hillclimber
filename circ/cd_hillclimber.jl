@@ -49,7 +49,7 @@ target /= maximum(target)
 components = reshape(cat(alpha_helix, beta_sheet, random_coil, dims=1), 61,3)
 weights = softmax(rand(3,1))
 
-iterations = 1000000
+iterations = 10000
 best_loss = Inf
 losses = []
 best_weights = weights

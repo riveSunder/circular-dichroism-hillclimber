@@ -20,7 +20,7 @@ Anyway, recently I dusted off the bits containing my old algo and re-wrote the o
 
 Using my ancient, nigh-unreadable MATLAB script: 
 
-````
+```
 alpha helix contribution %:
  28.467
 beta sheet contribution %:
@@ -44,6 +44,7 @@ final loss after 10000 steps = 0.021621040231181776
 [alpha helix, beta sheet, random coil] weights: [0.2876258598374498; 0.49957903605306814; 0.21279510410948216]
 ok
 ```
+
 <div align="center">
 <img src="assets/losses.png"><br>
 <img src="assets/prediction_target.png">
